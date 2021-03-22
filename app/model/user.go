@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/bhumong/lemonilo/app/config"
+	"github.com/bhumong/go-user-service-v0/app/config"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/go-sql-driver/mysql"
 	"golang.org/x/crypto/bcrypt"

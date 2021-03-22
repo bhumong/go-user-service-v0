@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bhumong/lemonilo/app/config"
+	"github.com/bhumong/go-user-service-v0/app/config"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"
 )

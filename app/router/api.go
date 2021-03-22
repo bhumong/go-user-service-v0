@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/bhumong/lemonilo/app/handler"
-	"github.com/bhumong/lemonilo/app/middleware"
+	"github.com/bhumong/go-user-service-v0/app/handler"
+	"github.com/bhumong/go-user-service-v0/app/middleware"
 	"github.com/gofiber/fiber/v2"
 )
 

@@ -3,7 +3,7 @@ package transformer
 import (
 	"time"
 
-	"github.com/bhumong/lemonilo/app/model"
+	"github.com/bhumong/go-user-service-v0/app/model"
 	"github.com/gofiber/fiber/v2"
 )
 

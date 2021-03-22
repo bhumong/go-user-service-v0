@@ -3,9 +3,9 @@ package handler
 import (
 	"fmt"
 
-	"github.com/bhumong/lemonilo/app/model"
-	"github.com/bhumong/lemonilo/app/repository"
-	"github.com/bhumong/lemonilo/app/transformer"
+	"github.com/bhumong/go-user-service-v0/app/model"
+	"github.com/bhumong/go-user-service-v0/app/repository"
+	"github.com/bhumong/go-user-service-v0/app/transformer"
 	"github.com/gofiber/fiber/v2"
 )
 

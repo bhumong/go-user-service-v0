@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/bhumong/lemonilo/app/config"
+	"github.com/bhumong/go-user-service-v0/app/config"
 	_ "github.com/go-sql-driver/mysql"
 )
 

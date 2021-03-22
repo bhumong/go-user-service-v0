@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bhumong/lemonilo/app/database"
-	"github.com/bhumong/lemonilo/app/model"
+	"github.com/bhumong/go-user-service-v0/app/database"
+	"github.com/bhumong/go-user-service-v0/app/model"
 	"github.com/google/uuid"
 )
 

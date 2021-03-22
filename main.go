@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/bhumong/lemonilo/app/database"
-	"github.com/bhumong/lemonilo/app/router"
+	"github.com/bhumong/go-user-service-v0/app/database"
+	"github.com/bhumong/go-user-service-v0/app/router"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gofiber/fiber/v2"
 )
